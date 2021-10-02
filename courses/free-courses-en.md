@@ -350,6 +350,7 @@
 
 ### HTML / CSS
 
+* [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/)
 * [Bento CSS Learning Track](https://bento.io/topic/css) (Bento)
 * [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)
