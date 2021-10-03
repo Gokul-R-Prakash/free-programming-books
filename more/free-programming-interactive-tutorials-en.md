@@ -223,6 +223,7 @@
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
+* [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) - Google + Udacity
 
 
 ### Language Agnostic
